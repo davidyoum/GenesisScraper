@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 def AverageGrade(grades):
     average_grade = 0.0
     num_of_classes = 0
